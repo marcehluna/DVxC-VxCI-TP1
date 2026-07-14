@@ -8,6 +8,7 @@ env/
 
 # Jupyter
 .ipynb_checkpoints/
+archivo.viejo.ipynb
 
 # OS
 .DS_Store
